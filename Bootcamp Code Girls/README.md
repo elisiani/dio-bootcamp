@@ -2,3 +2,6 @@
 
 ## Bootcamp Code Girls
 
+## Execícios do Módulo Entendendo Métodos Java
+
+**1. Calculadora**
