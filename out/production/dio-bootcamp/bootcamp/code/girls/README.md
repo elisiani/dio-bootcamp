@@ -4,6 +4,7 @@
 
 ## Execícios do Módulo Entendendo Métodos Java
 
-**1. Calculadora**
-**2. Mensagem**
-**3. Calculadora**
+1. Calculadora
+2. Mensagem
+3. Empréstimo
+4. Quadrilátero
