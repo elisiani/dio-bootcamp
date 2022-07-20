@@ -1,4 +1,4 @@
-package bootcamp.code.girls;
+package bootcamp.code.girls.metodos;
 
 /**
  * Classe de exemplo para o exercicio da aula 1 de métodos

@@ -1,4 +1,4 @@
-package bootcamp.code.girls;
+package bootcamp.code.girls.metodos;
 
 public class Quadrilatero {
 

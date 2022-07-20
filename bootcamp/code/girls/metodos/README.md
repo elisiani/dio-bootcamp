@@ -8,3 +8,4 @@
 2. Mensagem
 3. Empréstimo
 4. Quadrilátero
+5. Quadrilátero com Retorno (sem  void)

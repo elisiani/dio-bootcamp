@@ -1,4 +1,4 @@
-package bootcamp.code.girls;
+package bootcamp.code.girls.metodos;
 
 /**
  * Classe principal dos exercícios da Aula 1 de Métodos
